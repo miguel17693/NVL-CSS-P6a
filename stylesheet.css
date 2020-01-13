@@ -1,0 +1,45 @@
+tr {
+	background-color: yellow;
+	font-style: italic;
+}
+
+.a {
+	background-color: white;
+}
+
+.b{
+	background-color: #EEEEEE;
+}
+.c{
+	background-color: #CBCBCB;
+}
+
+.d{
+	background-color: #BDBDBD;
+}
+
+.e{
+	background-color: #AEAEAE;
+}
+
+.f{
+	background-color: #989898;
+	color: white;
+}
+.g{
+	background-color:  #696969;
+	color:white;
+}
+.h{
+	background-color: #4D4D4D;
+	color:white;
+}
+.i {
+	background-color: #2C2C2C;
+	color:white;
+}
+
+.j{
+	background-color: #000000;
+	color:white;
+}
